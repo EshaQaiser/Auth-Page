@@ -19,11 +19,11 @@ A sleek and interactive authentication page built with HTML and CSS. This projec
 
 ## The Login Page:
 
-![Sign in ](./Signin-Page.png)
+![Sign in ](./SigninPage.png)
 
 ## The Signup Page:
 
-![Sign up](./Signup-Page.png)
+![Sign up](./SignupPage.png)
 
 ## 📌 Use Case
 
