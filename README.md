@@ -5,7 +5,7 @@ A sleek and interactive authentication page built with HTML and CSS. This projec
 ## ✨ Highlights
 
 - 🔄 Smooth sliding panels for login and registration
-- 💎 Elegant, glassmorphic-style UI design
+- 💎 Elegant, UI design
 - 🖥️ Fully responsive across all devices
 - 🎨 Clean layout with subtle animations
 - 🧩 Easily customizable and extendable
